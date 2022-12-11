@@ -11,7 +11,7 @@ class C {
 			
 	}
 }
-public class Study02_Class {
+public class study02_Class {
 	public static void main(String[] args) {
 		
 	}

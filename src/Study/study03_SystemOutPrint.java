@@ -1,6 +1,6 @@
 package Study;
 
-public class Study03_SystemOutPrint {
+public class study03_SystemOutPrint {
 	public static void main(String[] args) {
 		// System.out.println()
 		System.out.println("안녕");

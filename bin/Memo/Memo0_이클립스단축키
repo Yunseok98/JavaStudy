@@ -1,0 +1,5 @@
+crtl + shift + o = 자동 임포트
+crtl + / = 주석
+crtl + shift + f = 자동 정렬
+crtl + shift + [ = 화면 나누기
+sysout + ctrl + space + enter = System.out.println
