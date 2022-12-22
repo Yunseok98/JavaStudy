@@ -1,0 +1,12 @@
+제어문 : 프로그램의 처리 순서를 바꾸는 것.
+선택 제어문 : if, switch
+반복 제어문 : for, while, do-while
+제어 키워드 : break, continue
+
+if문 : 조건식에 따라 실행문의 실행 여부를 결정
+if-else문 : 조건식이 false일 때 else 구문 실행
+if-else if-else문 : 조건식이 true일 때 if문 탈출
+변수의 범위 표현 : (a >= 70 && a < 80)   =   (70 ≤ a < 80)
+
+switch문 : 점프 위치 변숫값에 따라 특정 위치(case)로 이동해 구문을 실행하는 제어문.
+break : if문을 제외한 가장 가까운 중괄호를 탈출하는 키워드
